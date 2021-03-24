@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MobileBankApp.UI/1.0.0": {
+        "dependencies": {
+          "MobileBankApp.AccountRepository": "1.0.0",
+          "MobileBankApp.Commons": "1.0.0",
+          "MobileBankApp.CustomerRepository": "1.0.0",
+          "MobileBankApp.DataStorageRepository": "1.0.0"
+        },
+        "runtime": {
+          "MobileBankApp.UI.dll": {}
+        }
+      },
+      "MobileBankApp.AccountRepository/1.0.0": {
+        "dependencies": {
+          "MobileBankApp.Commons": "1.0.0",
+          "MobileBankApp.CustomerRepository": "1.0.0",
+          "MobileBankApp.DataStorageRepository": "1.0.0"
+        },
+        "runtime": {
+          "MobileBankApp.AccountRepository.dll": {}
+        }
+      },
+      "MobileBankApp.Commons/1.0.0": {
+        "dependencies": {
+          "MobileBankApp.CustomerRepository": "1.0.0"
+        },
+        "runtime": {
+          "MobileBankApp.Commons.dll": {}
+        }
+      },
+      "MobileBankApp.CustomerRepository/1.0.0": {
+        "runtime": {
+          "MobileBankApp.CustomerRepository.dll": {}
+        }
+      },
+      "MobileBankApp.DataStorageRepository/1.0.0": {
+        "dependencies": {
+          "MobileBankApp.CustomerRepository": "1.0.0"
+        },
+        "runtime": {
+          "MobileBankApp.DataStorageRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobileBankApp.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobileBankApp.AccountRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobileBankApp.Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobileBankApp.CustomerRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MobileBankApp.DataStorageRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

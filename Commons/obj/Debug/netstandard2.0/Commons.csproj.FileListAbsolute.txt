@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\KingdomBankApp\Commons\bin\Debug\netstandard2.0\Commons.deps.json
+C:\Users\hp\source\repos\KingdomBankApp\Commons\bin\Debug\netstandard2.0\Commons.dll
+C:\Users\hp\source\repos\KingdomBankApp\Commons\bin\Debug\netstandard2.0\Commons.pdb
+C:\Users\hp\source\repos\KingdomBankApp\Commons\obj\Debug\netstandard2.0\Commons.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\KingdomBankApp\Commons\obj\Debug\netstandard2.0\Commons.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\Commons\obj\Debug\netstandard2.0\Commons.AssemblyInfo.cs
+C:\Users\hp\source\repos\KingdomBankApp\Commons\obj\Debug\netstandard2.0\Commons.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\Commons\obj\Debug\netstandard2.0\Commons.dll
+C:\Users\hp\source\repos\KingdomBankApp\Commons\obj\Debug\netstandard2.0\Commons.pdb
+C:\Users\hp\source\repos\KingdomBankApp\Commons\bin\Debug\netstandard2.0\CustomerRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\Commons\bin\Debug\netstandard2.0\CustomerRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\Commons\obj\Debug\netstandard2.0\Commons.csproj.CopyComplete

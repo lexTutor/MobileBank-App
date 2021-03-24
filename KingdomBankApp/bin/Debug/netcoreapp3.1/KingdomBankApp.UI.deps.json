@@ -1,0 +1,80 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KingdomBankApp.UI/1.0.0": {
+        "dependencies": {
+          "AccountRepository": "1.0.0",
+          "Commons": "1.0.0",
+          "CustomerRepository": "1.0.0",
+          "DataStorageRepository": "1.0.0"
+        },
+        "runtime": {
+          "KingdomBankApp.UI.dll": {}
+        }
+      },
+      "AccountRepository/1.0.0": {
+        "dependencies": {
+          "Commons": "1.0.0",
+          "CustomerRepository": "1.0.0",
+          "DataStorageRepository": "1.0.0"
+        },
+        "runtime": {
+          "AccountRepository.dll": {}
+        }
+      },
+      "Commons/1.0.0": {
+        "dependencies": {
+          "CustomerRepository": "1.0.0"
+        },
+        "runtime": {
+          "Commons.dll": {}
+        }
+      },
+      "CustomerRepository/1.0.0": {
+        "runtime": {
+          "CustomerRepository.dll": {}
+        }
+      },
+      "DataStorageRepository/1.0.0": {
+        "dependencies": {
+          "CustomerRepository": "1.0.0"
+        },
+        "runtime": {
+          "DataStorageRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KingdomBankApp.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AccountRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Commons/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataStorageRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

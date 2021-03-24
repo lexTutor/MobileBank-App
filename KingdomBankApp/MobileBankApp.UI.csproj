@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AccountRepository\MobileBankApp.AccountRepository.csproj" />
+    <ProjectReference Include="..\Commons\MobileBankApp.Commons.csproj" />
+    <ProjectReference Include="..\CustomerRepository\MobileBankApp.CustomerRepository.csproj" />
+    <ProjectReference Include="..\DataStorageRepository\MobileBankApp.DataStorageRepository.csproj" />
+  </ItemGroup>
+
+</Project>

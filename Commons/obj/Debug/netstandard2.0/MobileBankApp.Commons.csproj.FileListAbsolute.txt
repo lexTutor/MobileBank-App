@@ -1,0 +1,12 @@
+C:\LexRepos\MobileBank-App\Commons\bin\Debug\netstandard2.0\MobileBankApp.Commons.deps.json
+C:\LexRepos\MobileBank-App\Commons\bin\Debug\netstandard2.0\MobileBankApp.Commons.dll
+C:\LexRepos\MobileBank-App\Commons\bin\Debug\netstandard2.0\MobileBankApp.Commons.pdb
+C:\LexRepos\MobileBank-App\Commons\bin\Debug\netstandard2.0\MobileBankApp.CustomerRepository.dll
+C:\LexRepos\MobileBank-App\Commons\bin\Debug\netstandard2.0\MobileBankApp.CustomerRepository.pdb
+C:\LexRepos\MobileBank-App\Commons\obj\Debug\netstandard2.0\MobileBankApp.Commons.csprojAssemblyReference.cache
+C:\LexRepos\MobileBank-App\Commons\obj\Debug\netstandard2.0\MobileBankApp.Commons.AssemblyInfoInputs.cache
+C:\LexRepos\MobileBank-App\Commons\obj\Debug\netstandard2.0\MobileBankApp.Commons.AssemblyInfo.cs
+C:\LexRepos\MobileBank-App\Commons\obj\Debug\netstandard2.0\MobileBankApp.Commons.csproj.CoreCompileInputs.cache
+C:\LexRepos\MobileBank-App\Commons\obj\Debug\netstandard2.0\MobileBankApp.Commons.csproj.CopyComplete
+C:\LexRepos\MobileBank-App\Commons\obj\Debug\netstandard2.0\MobileBankApp.Commons.dll
+C:\LexRepos\MobileBank-App\Commons\obj\Debug\netstandard2.0\MobileBankApp.Commons.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXar0LmgBYAEok0HhF3PMo0lBGO9q8y2Qpsw1K/hhb6xFZS5gXKGRBvxMvkXr/orGRdfjGOz8e4VF3477NjOxA==",
+  "success": true,
+  "projectFilePath": "C:\\LexRepos\\MobileBank-App\\DataStorageRepository\\MobileBankApp.DataStorageRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

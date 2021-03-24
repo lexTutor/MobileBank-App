@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\bin\Debug\netstandard2.0\DataStorageRepository.deps.json
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\bin\Debug\netstandard2.0\DataStorageRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\bin\Debug\netstandard2.0\DataStorageRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\obj\Debug\netstandard2.0\DataStorageRepository.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\obj\Debug\netstandard2.0\DataStorageRepository.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\obj\Debug\netstandard2.0\DataStorageRepository.AssemblyInfo.cs
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\obj\Debug\netstandard2.0\DataStorageRepository.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\obj\Debug\netstandard2.0\DataStorageRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\obj\Debug\netstandard2.0\DataStorageRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\bin\Debug\netstandard2.0\CustomerRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\bin\Debug\netstandard2.0\CustomerRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\DataStorageRepository\obj\Debug\netstandard2.0\DataStorageRepository.csproj.CopyComplete

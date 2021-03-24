@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\KingdomBankApp\Validations\bin\Debug\netstandard2.0\Validations.deps.json
+C:\Users\hp\source\repos\KingdomBankApp\Validations\bin\Debug\netstandard2.0\Validations.dll
+C:\Users\hp\source\repos\KingdomBankApp\Validations\bin\Debug\netstandard2.0\Validations.pdb
+C:\Users\hp\source\repos\KingdomBankApp\Validations\bin\Debug\netstandard2.0\CustomerRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\Validations\bin\Debug\netstandard2.0\CustomerRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\Validations\obj\Debug\netstandard2.0\Validations.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\KingdomBankApp\Validations\obj\Debug\netstandard2.0\Validations.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\Validations\obj\Debug\netstandard2.0\Validations.AssemblyInfo.cs
+C:\Users\hp\source\repos\KingdomBankApp\Validations\obj\Debug\netstandard2.0\Validations.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\Validations\obj\Debug\netstandard2.0\Validations.csproj.CopyComplete
+C:\Users\hp\source\repos\KingdomBankApp\Validations\obj\Debug\netstandard2.0\Validations.dll
+C:\Users\hp\source\repos\KingdomBankApp\Validations\obj\Debug\netstandard2.0\Validations.pdb

@@ -1,0 +1,12 @@
+C:\LexRepos\MobileBank-App\DataStorageRepository\bin\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.deps.json
+C:\LexRepos\MobileBank-App\DataStorageRepository\bin\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.dll
+C:\LexRepos\MobileBank-App\DataStorageRepository\bin\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.pdb
+C:\LexRepos\MobileBank-App\DataStorageRepository\bin\Debug\netstandard2.0\MobileBankApp.CustomerRepository.dll
+C:\LexRepos\MobileBank-App\DataStorageRepository\bin\Debug\netstandard2.0\MobileBankApp.CustomerRepository.pdb
+C:\LexRepos\MobileBank-App\DataStorageRepository\obj\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.csprojAssemblyReference.cache
+C:\LexRepos\MobileBank-App\DataStorageRepository\obj\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.AssemblyInfoInputs.cache
+C:\LexRepos\MobileBank-App\DataStorageRepository\obj\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.AssemblyInfo.cs
+C:\LexRepos\MobileBank-App\DataStorageRepository\obj\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.csproj.CoreCompileInputs.cache
+C:\LexRepos\MobileBank-App\DataStorageRepository\obj\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.csproj.CopyComplete
+C:\LexRepos\MobileBank-App\DataStorageRepository\obj\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.dll
+C:\LexRepos\MobileBank-App\DataStorageRepository\obj\Debug\netstandard2.0\MobileBankApp.DataStorageRepository.pdb

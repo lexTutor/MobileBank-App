@@ -1,0 +1,163 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MobileBankApp.AccountRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MobileBankApp.Commons": "1.0.0",
+          "MobileBankApp.CustomerRepository": "1.0.0",
+          "MobileBankApp.DataStorageRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MobileBankApp.AccountRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MobileBankApp.AccountRepository.dll": {}
+        }
+      },
+      "MobileBankApp.Commons/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MobileBankApp.CustomerRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MobileBankApp.Commons.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MobileBankApp.Commons.dll": {}
+        }
+      },
+      "MobileBankApp.CustomerRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MobileBankApp.CustomerRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MobileBankApp.CustomerRepository.dll": {}
+        }
+      },
+      "MobileBankApp.DataStorageRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MobileBankApp.CustomerRepository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MobileBankApp.DataStorageRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MobileBankApp.DataStorageRepository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MobileBankApp.AccountRepository/1.0.0": {
+      "type": "project",
+      "path": "../AccountRepository/MobileBankApp.AccountRepository.csproj",
+      "msbuildProject": "../AccountRepository/MobileBankApp.AccountRepository.csproj"
+    },
+    "MobileBankApp.Commons/1.0.0": {
+      "type": "project",
+      "path": "../Commons/MobileBankApp.Commons.csproj",
+      "msbuildProject": "../Commons/MobileBankApp.Commons.csproj"
+    },
+    "MobileBankApp.CustomerRepository/1.0.0": {
+      "type": "project",
+      "path": "../CustomerRepository/MobileBankApp.CustomerRepository.csproj",
+      "msbuildProject": "../CustomerRepository/MobileBankApp.CustomerRepository.csproj"
+    },
+    "MobileBankApp.DataStorageRepository/1.0.0": {
+      "type": "project",
+      "path": "../DataStorageRepository/MobileBankApp.DataStorageRepository.csproj",
+      "msbuildProject": "../DataStorageRepository/MobileBankApp.DataStorageRepository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MobileBankApp.AccountRepository >= 1.0.0",
+      "MobileBankApp.Commons >= 1.0.0",
+      "MobileBankApp.CustomerRepository >= 1.0.0",
+      "MobileBankApp.DataStorageRepository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\LexRepos\\MobileBank-App\\KingdomBankApp\\MobileBankApp.UI.csproj",
+      "projectName": "MobileBankApp.UI",
+      "projectPath": "C:\\LexRepos\\MobileBank-App\\KingdomBankApp\\MobileBankApp.UI.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\LexRepos\\MobileBank-App\\KingdomBankApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\LexRepos\\MobileBank-App\\AccountRepository\\MobileBankApp.AccountRepository.csproj": {
+              "projectPath": "C:\\LexRepos\\MobileBank-App\\AccountRepository\\MobileBankApp.AccountRepository.csproj"
+            },
+            "C:\\LexRepos\\MobileBank-App\\Commons\\MobileBankApp.Commons.csproj": {
+              "projectPath": "C:\\LexRepos\\MobileBank-App\\Commons\\MobileBankApp.Commons.csproj"
+            },
+            "C:\\LexRepos\\MobileBank-App\\CustomerRepository\\MobileBankApp.CustomerRepository.csproj": {
+              "projectPath": "C:\\LexRepos\\MobileBank-App\\CustomerRepository\\MobileBankApp.CustomerRepository.csproj"
+            },
+            "C:\\LexRepos\\MobileBank-App\\DataStorageRepository\\MobileBankApp.DataStorageRepository.csproj": {
+              "projectPath": "C:\\LexRepos\\MobileBank-App\\DataStorageRepository\\MobileBankApp.DataStorageRepository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

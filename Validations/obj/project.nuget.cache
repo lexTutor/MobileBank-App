@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJ6/RBqSyan8y53mvTSA9tDki+C7NXyjyEtQtkokJPe4Ary81SEBpDfaM+rI9wv9RuHDwOqFqXSSvl9MzVUNSg==",
+  "success": true,
+  "projectFilePath": "C:\\LexRepos\\MobileBank-App\\Validations\\Validations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

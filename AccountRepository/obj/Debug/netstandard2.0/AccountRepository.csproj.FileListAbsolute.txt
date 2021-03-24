@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\obj\Debug\netstandard2.0\AccountRepository.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\obj\Debug\netstandard2.0\AccountRepository.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\obj\Debug\netstandard2.0\AccountRepository.AssemblyInfo.cs
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\obj\Debug\netstandard2.0\AccountRepository.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\AccountRepository.deps.json
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\AccountRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\AccountRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\Commons.dll
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\CustomerRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\DataStorageRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\Commons.pdb
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\CustomerRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\bin\Debug\netstandard2.0\DataStorageRepository.pdb
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\obj\Debug\netstandard2.0\AccountRepository.csproj.CopyComplete
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\obj\Debug\netstandard2.0\AccountRepository.dll
+C:\Users\hp\source\repos\KingdomBankApp\AccountRepository\obj\Debug\netstandard2.0\AccountRepository.pdb
